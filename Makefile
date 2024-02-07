@@ -9,7 +9,7 @@ bash:
 
 
 ##############################################################
-Make commands for running a bash session WITHIN the container
+# Make commands for running a bash session WITHIN the container
 
 MODEL_NAME="runwayml/stable-diffusion-v1-5"
 OUTPUT_DIR="/main/models/lora_rs"
