@@ -1,6 +1,6 @@
 # Stable Diffusion for Remote Sensing
 
-This repository provides companion code for my blog post: [Stable Diffusion for Remote Sensing: Reality Check ](https://danielhoshizaki.com/stable%20diffusion/remote%20sensing/deep%20learning/2024/01/20/stable-diffusion.html).
+This repository provides companion code for my blog post: [Stable Diffusion for Remote Sensing](https://danielhoshizaki.com/stable%20diffusion/remote%20sensing/deep%20learning/2024/01/20/stable-diffusion.html).
 
 ## Getting Started
 
